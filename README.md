@@ -1,6 +1,6 @@
 # Social Links
 
-![Imagem do Projeto](./images/social-links.png)
+![Imagem do Projeto](./images/social-links.PNG)
 
 ## Descrição
 
